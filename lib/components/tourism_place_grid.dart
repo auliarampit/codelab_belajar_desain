@@ -1,4 +1,4 @@
-import 'package:belajar_desain_flutter/detail_screen.dart';
+import 'package:belajar_desain_flutter/detailscreen/index.dart';
 import 'package:flutter/material.dart';
 
 import 'package:belajar_desain_flutter/model/tourism_place.dart';
